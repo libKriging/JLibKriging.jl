@@ -4,7 +4,7 @@
 # GitHub archives at build time. Kept in sync by tools/update_sources.sh.
 [libKriging]
 repo = "libKriging/libKriging"
-sha  = "6f50133a19b55ffa218cc66df87ab71b39522c34"   # 6f50133a19b55ffa218cc66df87ab71b39522c34
+sha  = "86b623f194a834f115bc38bf59cb698d5ddcdedd"   # 86b623f194a834f115bc38bf59cb698d5ddcdedd
 version = "1.2.2"
 
 # libKriging's own submodules that the Julia binding needs
@@ -16,7 +16,7 @@ sha  = "906658336ec2c94f5440a2865d596e7c35fd9984"
 [[dependency]]
 path = "dependencies/lbfgsb_cpp"
 repo = "libKriging/lbfgsb_cpp"
-sha  = "71213ed6174c4048ba9db8285ad9f682bb7ac041"
+sha  = "b6eff967db02c258ec4b84b7ed01ddf2c295bb8d"
 
 # used by armadillo's build only when no system LAPACK is found
 [slapack]
