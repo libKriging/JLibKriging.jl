@@ -4,7 +4,7 @@
 # GitHub archives at build time. Kept in sync by tools/update_sources.sh.
 [libKriging]
 repo = "libKriging/libKriging"
-sha  = "90449201053b4a04ef95a2ad377b264b69322787"   # 90449201053b4a04ef95a2ad377b264b69322787
+sha  = "1b9cb34edf868d5579d85a37cf4eb40adca02275"   # 1b9cb34edf868d5579d85a37cf4eb40adca02275
 version = "1.2.2"
 
 # libKriging's own submodules that the Julia binding needs
